@@ -9,10 +9,10 @@ My name is Yayue Hou (Yayue is first, Hou is last), if no know how to pronounce,
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YayueHou)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education
-Tongji University, Shanghai, China
-* Bachelor of Engineering, Microelectronics Science and Engineering Expected July 2023
-Rensselaer Polytechnic Institute, United States
-* Prospective PhD Student
+* Tongji University, Shanghai, China
+  - Bachelor of Engineering, Microelectronics Science and Engineering, July 2023
+* Rensselaer Polytechnic Institute, United States
+  - PhD Student of EPIC
 ## Skills
 * Programming: C/C++, Python, Verilog, VHDL, MATLAB
 * Signal Porcessing 
