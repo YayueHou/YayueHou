@@ -4,7 +4,7 @@
 * [Institution Email: houy4@rpi.edu](mailto:houy4@rpi.edu)
 * Address: Rensselaer Polytechnic Institute, Troy, NY 12180, USA 
 
-My name is Yayue Hou (Yayue is first, Hou is last), if no know how to pronounce, you can call me Larry Hou.
+My name is Yayue Hou (Yayue is first, Hou is last), if no know how to pronounce, you can call me Langley Hou.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YayueHou)](https://github.com/anuraghazra/github-readme-stats)
 
