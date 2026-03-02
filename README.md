@@ -6,8 +6,6 @@
 
 My name is Yayue Hou (Yayue is first, Hou is last), if no know how to pronounce, you can call me Langley Hou.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YayueHou)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Education
 * Tongji University, Shanghai, China
   - Bachelor of Engineering, Microelectronics Science and Engineering, July 2023
