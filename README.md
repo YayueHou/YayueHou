@@ -1,7 +1,7 @@
 # Langley Hou
 
-* [Personal Email: yayuehou2023@gmail.com](mailto:yayuehou2023@gmail.com)
-* [Institution Email: houy4@rpi.edu](mailto:houy4@rpi.edu)
+* Personal Email: [yayuehou2023@gmail.com](mailto:yayuehou2023@gmail.com)
+* Institution Email: [houy4@rpi.edu](mailto:houy4@rpi.edu)
 * Address: Rensselaer Polytechnic Institute, Troy, NY 12180, USA 
 
 My name is Yayue Hou (Yayue is first, Hou is last), if no know how to pronounce, you can call me Langley Hou.
